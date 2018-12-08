@@ -1,0 +1,43 @@
+ Words: 8 I love python programming with all my heart
+I: has 1 Characters
+love: has 4 Characters
+python: has 6 Characters
+programming: has 11 Characters
+with: has 4 Characters
+all: has 3 Characters
+my: has 2 Characters
+heart
+: has 6 Characters
+ Words: 9 The syntax of python is supper cool and elegant.
+The: has 3 Characters
+syntax: has 6 Characters
+of: has 2 Characters
+python: has 6 Characters
+is: has 2 Characters
+supper: has 6 Characters
+cool: has 4 Characters
+and: has 3 Characters
+elegant.
+: has 9 Characters
+ Words: 9 guys can you join me let's love python? 
+guys: has 4 Characters
+can: has 3 Characters
+you: has 3 Characters
+join: has 4 Characters
+me: has 2 Characters
+let's: has 5 Characters
+love: has 4 Characters
+python?: has 7 Characters
+
+: has 1 Characters
+ Words: 8 I love python programming with all my heart
+I: has 1 Characters
+love: has 4 Characters
+python: has 6 Characters
+programming: has 11 Characters
+with: has 4 Characters
+all: has 3 Characters
+my: has 2 Characters
+heart
+: has 6 Characters
+total number of words in file: 34
