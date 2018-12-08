@@ -1,4 +1,4 @@
-f = open("//home//socialclimber//Desktop/Python//Word_Count//text.txt");
+f = open("//home//socialclimber//Desktop/Python//Word_Count//text.txt","r");
 
 # use a for loop to read the lines in the file
 count = 0;
@@ -10,5 +10,6 @@ for line in f:
 	count+=len(tokens);
 print("Total Words in file: ")
 print(count);
+f.close();
 	
 	

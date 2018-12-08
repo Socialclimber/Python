@@ -1,0 +1,5 @@
+ Words: 8 I love python programming with all my heart
+ Words: 9 The syntax of python is supper cool and elegant.
+ Words: 9 guys can you join me let's love python? 
+ Words: 8 I love python programming with all my heart
+total number of words in file: 34
